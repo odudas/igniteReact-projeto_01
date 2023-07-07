@@ -1,11 +1,14 @@
 {
+  "homepage": "https://odudas.github.io/igniteReact-projeto_01",
   "name": "01-fundamentos-reactjs",
   "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "date-fns": "^2.28.0",
@@ -17,6 +20,7 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
+    "gh-pages": "^5.0.0",
     "typescript": "^4.6.3",
     "vite": "^2.9.7"
   }
