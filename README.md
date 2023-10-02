@@ -8,7 +8,7 @@ ReactJS - Projeto 01: Ignite Feed - Ignite RocketSeat
 
 O Ignite Feed foi o primeiro projeto desenvolvido durante a trilha ignite/react, da Rocketseat.<br>
 <br>
-Ela foi criada com o objetivo de ensinar aos alunos o básico do React, como componentização, propriedades, estados, imutabilidade, hooks, etc. E fazar a migração de um projeto JavaScript para TypeScript.<br>
+Ela foi criada com o objetivo de ensinar aos alunos o básico do React, como componentização, propriedades, estados, imutabilidade, hooks, etc. E fazer a migração de um projeto JavaScript para TypeScript.<br>
 <br>
 Esta aplicação permite aos usuários criar e deletar comentários, além de conter um pouco de validação para que não sejam criados comentários vazios, por exemplo.
 
